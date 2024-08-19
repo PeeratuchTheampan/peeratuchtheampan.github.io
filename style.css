@@ -59,15 +59,14 @@ ul.menu li {
 
 /* กำหนด element ภายใน banner โดยรวม */
 .banner-info {
-    text-align: justify;
+    text-align: center;
     max-width: 100%;
     padding-left: 3rem;
     padding-right: 3rem;
 }
 
 .banner-info img {
-    text-align:center;
-    width: 200px;
+        width: 400px;
     max-width: 100%;
     border-radius: 0%;
 }
