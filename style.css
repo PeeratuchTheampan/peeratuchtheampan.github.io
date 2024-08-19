@@ -66,6 +66,7 @@ ul.menu li {
 }
 
 .banner-info img {
+    text-align:center;
     width: 200px;
     max-width: 100%;
     border-radius: 0%;
