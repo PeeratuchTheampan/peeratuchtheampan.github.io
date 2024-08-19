@@ -49,7 +49,7 @@ ul.menu li {
 .banner {
     background-image: url(wallpaperprofile.jpg);
     background-size: cover;
-    color: #000000;
+    color: #ffffff;
     height: 300px;
     display: flex;
     justify-content: center;
