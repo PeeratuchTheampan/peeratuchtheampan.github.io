@@ -40,7 +40,7 @@ ul.menu li {
 
 .menu li a {
     margin-right: auto;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
     text-decoration: none;
     color: #04f004;
     padding: 0.8rem 1rem;
@@ -49,7 +49,7 @@ ul.menu li {
 .banner {
     background-image: url(wallpaperprofile.jpg);
     background-size: cover;
-    color: #ffffff;
+    color: #000000;
     height: 300px;
     display: flex;
     justify-content: center;
@@ -66,7 +66,7 @@ ul.menu li {
 }
 
 .banner-info img {
-    width: 200px;
+    width: 150px;
     max-width: 100%;
     border-radius: 100%;
 }
