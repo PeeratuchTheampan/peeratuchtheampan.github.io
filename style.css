@@ -57,7 +57,7 @@ ul.menu li {
     object-fit: cover;
 }
 
-/* กำหนด element ภายใน banner โดยรวม */
+
 .banner-info {
     text-align: center;
     max-width: 100%;
@@ -66,7 +66,7 @@ ul.menu li {
 }
 
 .banner-info img {
-        width: 400px;
+        width: 250px;
     max-width: 100%;
     border-radius: 0%;
 }
