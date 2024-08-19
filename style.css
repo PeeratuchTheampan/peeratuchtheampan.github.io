@@ -66,13 +66,13 @@ ul.menu li {
 }
 
 .banner-info img {
-    width: 200px;
+    width: 150px;
     max-width: 100%;
     border-radius: 100%;
 }
 
 .banner-info p {
-    max-width: 350px;
+    max-width: 200px;
     width: 100%;
     margin-top: 2%;
 
