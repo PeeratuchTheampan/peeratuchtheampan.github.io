@@ -42,14 +42,14 @@ ul.menu li {
     margin-right: auto;
     background-color: rgb(0, 0, 0);
     text-decoration: none;
-    color: #04f004;
+    color: #f70000;
     padding: 0.8rem 1rem;
 }
 
 .banner {
     background-image: url(wallpaperprofile.jpg);
     background-size: cover;
-    color: #000000;
+    color: #ffffff;
     height: 500px;
     display: flex;
     justify-content: center;
